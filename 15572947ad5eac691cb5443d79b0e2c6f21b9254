@@ -1,0 +1,61 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "c0551e16_3c01448d",
+        "filename": "MAINTAINERS",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2020-12-16T19:04:08Z",
+      "side": 1,
+      "message": "We recently moved this over to discord. But I know a lot of files still have this.",
+      "range": {
+        "startLine": 17,
+        "startChar": 37,
+        "endLine": 17,
+        "endChar": 52
+      },
+      "revId": "15572947ad5eac691cb5443d79b0e2c6f21b9254",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a94910da_ac2957be",
+        "filename": "meta-x11spi/conf/layer.conf",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2020-12-16T19:04:08Z",
+      "side": 1,
+      "message": "probably want gatesgarth in here",
+      "revId": "15572947ad5eac691cb5443d79b0e2c6f21b9254",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "7ba565ac_c93b1f83",
+        "filename": "meta-x11spi/recipes-kernel/linux/linux-aspeed/0001-linux-aspeed-add-supermicro-x11spi-device-tree.patch",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2020-12-16T19:04:08Z",
+      "side": 1,
+      "message": "Always good to get kernel patches upstreamed, but I\u0027m sure you\u0027ve heard that before :)",
+      "revId": "15572947ad5eac691cb5443d79b0e2c6f21b9254",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4",
+      "unresolved": true
+    }
+  ]
+}
