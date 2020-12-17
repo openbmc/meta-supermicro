@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "0ab9cde1_c214b1ea",
+        "filename": "MAINTAINERS",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1000969
+      },
+      "writtenOn": "2020-12-17T06:50:17Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "c0551e16_3c01448d",
+      "range": {
+        "startLine": 17,
+        "startChar": 37,
+        "endLine": 17,
+        "endChar": 52
+      },
+      "revId": "15572947ad5eac691cb5443d79b0e2c6f21b9254",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "a94910da_ac2957be",
         "filename": "meta-x11spi/conf/layer.conf",
         "patchSetId": 1
@@ -42,6 +66,24 @@
     },
     {
       "key": {
+        "uuid": "38715ea9_ff1fe661",
+        "filename": "meta-x11spi/conf/layer.conf",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1000969
+      },
+      "writtenOn": "2020-12-17T06:50:17Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a94910da_ac2957be",
+      "revId": "15572947ad5eac691cb5443d79b0e2c6f21b9254",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7ba565ac_c93b1f83",
         "filename": "meta-x11spi/recipes-kernel/linux/linux-aspeed/0001-linux-aspeed-add-supermicro-x11spi-device-tree.patch",
         "patchSetId": 1
@@ -56,6 +98,24 @@
       "revId": "15572947ad5eac691cb5443d79b0e2c6f21b9254",
       "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "3486b8f2_ccec230b",
+        "filename": "meta-x11spi/recipes-kernel/linux/linux-aspeed/0001-linux-aspeed-add-supermicro-x11spi-device-tree.patch",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1000969
+      },
+      "writtenOn": "2020-12-17T06:50:17Z",
+      "side": 1,
+      "message": "Done\nI will create new one device to openbmc/linux directly",
+      "parentUuid": "7ba565ac_c93b1f83",
+      "revId": "15572947ad5eac691cb5443d79b0e2c6f21b9254",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4",
+      "unresolved": false
     }
   ]
 }
